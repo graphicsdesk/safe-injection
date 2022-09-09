@@ -7,12 +7,98 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "As New York City faces a growing number of fatal drug overdoses, government officials have turned to East Harlem’s Overdose Prevention Clinics, nonprofit facilities which offer supervised safe-injection sites and drug testing equipment for those experiencing substance addiction."
+          },
+          {
+            "type": "text",
+            "value": "Two overdose prevention centers operated by non-profit OnPoint NYC report averting over 390 overdoses since opening last November. These centers received a boost in August, whenMayor Eric Adams allocated funding for clinics to test for Fentanyl and other lethal drugs. However, some Harlem community members point to geographical inequity. East Harlem is home to the highest density of treatment clinics in Manhattan, while West Harlem remains a “treatment desert.”"
+          },
+          {
+            "type": "text",
+            "value": "[GRAPHIC OF TREATMENT DESERTS]"
+          },
+          {
+            "type": "text",
+            "value": "“The overdose crisis requires bold and innovative responses—and that’s exactly what this initiative represents,” Department of Health and Mental Hygiene Commissioner Dr. Ashwin Vasan said in a statement. “Our aim, by co-locating drug-checking services and the overdose prevention centers, is that we can work to save even more lives.”"
+          },
+          {
+            "type": "text",
+            "value": "Shawn Hill, co-founder of the Greater Harlem Coalition, a community activism group focused on Harlem oversaturation and land-use, said while he supports addiction care, East Harlem alone cannot sustainably support the high density of OPCs and other treatment facilities. Despite East and Central Harlem only making up 2.3 percent of New York City’s total population, they hold 19.1 percent of the city’s drug treatment facilities."
+          },
+          {
+            "type": "text",
+            "value": "“The vast majority of neighbors are angry that structurally, East Harlem yet again has been chosen as the location for a drug treatment program and not the Upper East Side, Chelsea, some wealthier and whiter neighborhood,” Hill said. “We are tired of the systemic locating of facilities like that, like the injection site, in communities of color.”"
+          },
+          {
+            "type": "text",
+            "value": "Although the OnPoint NYC OPCs have only been open for a year, other substance treatment clinics have been historically concentrated in East Harlem. For years, GHC has advocated for fewer clinics in East Harlem across substance abuse treatment programs. Hill has analyzed Office of Addiction and Substance Abuse Services data to understand how substance treatment programs are distributed in East and Central Harlem, and from where patients commute for GHC."
+          },
+          {
+            "type": "text",
+            "value": "[GRAPHICS FOR DENSITY]"
+          },
+          {
+            "type": "text",
+            "value": "Only 24.5 percent  of East Harlem treatment facility patients are from the neighborhood; the remaining 75.5 percent of patients commute from other neighborhoods and boroughs. Despite the many commuting patients, according to a GHC analysis, 80 percent of zip codes in the New York City area remain without any clinics and 65 percent of people in opioid treatment, including those in West Harlem, have no local opioid program."
+          },
+          {
+            "type": "text",
+            "value": "Beyond inaccessibility to patients based outside of East Harlem, Madlyn Stokely, Mount Morris Park Community Improvement Association President,  explained that carrying the highest density of substance treatment clinics in New York City puts inequitable strain on the community of an already underserved neighborhood. Beyond Adam’s testing equipment funding in August, the newest allocation offered East Harlem no additional support from the city."
+          },
+          {
+            "type": "text",
+            "value": "“We believe that the high concentration attracts people here that perhaps would not be here,” Stokely said. “Then it attracts others like drug dealers who know that they're here and they’re vulnerable. So, the cycle just keeps going. We do want to reduce, not eliminate, and share these institutions around the city. This is not just a Harlem problem.”"
+          },
+          {
+            "type": "text",
+            "value": "[COMMUTER DATA+GRAPHIC]"
+          },
+          {
+            "type": "text",
+            "value": "Despite its proximity to East and Central Harlem, GHC identifies West Harlem as a “treatment desert,” as the neighborhood has no OPCs or treatment facilities as reported by OASAS."
+          },
+          {
+            "type": "text",
+            "value": "Over the past five years, the GHC, MMPCIA, and other Harlem-based community organizations have pushed back against the opening of more clinics in East and Central Harlem in the form of protest marches, letter writing, and awareness campaigns. At a protest in October 2021, 30th district New York State Senator Cordell Cleare voiced her support, describing treatment clinics as “all concentrated here in Harlem,” and a “manufactured crisis.”"
+          },
+          {
+            "type": "text",
+            "value": "[Read more: <a href=\"https://www.columbiaspectator.com/news/2021/10/19/harlem-residents-protest-neighborhoods-oversaturation-of-methadone-clinics-citing-safety-concerns-and-inequitable-distribution/\">Harlem residents protest neighborhood’s oversaturation of methadone clinics, citing safety concerns and inequitable distribution</a>]"
+          },
+          {
+            "type": "text",
+            "value": "According to Hill, GHC and OnPoint are tentatively scheduled to meet in October to discuss community impact and involvement. Despite the challenges, Hill and Stokely are both optimistic about the future, and emphasized the urgency of their advocacy efforts."
+          },
+          {
+            "type": "text",
+            "value": "“I want a technocratic decision making process to occur, where we truly look at which communities have needs, which communities do not, and to make sure that there's an equitable distribution of these facilities throughout the five boroughs,” Hill said. “It is unconscionable that we ask the poorest neighborhood in Manhattan, East Harlem, to shoulder the heaviest burden when wealthier, whiter neighborhoods have the power to sustain, manage and care for people who are struggling with addiction.”"
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": ""
+            }
+          },
+          {
+            "type": "text",
+            "value": "<i>Charlotte Li is a Graphics deputy editor. She can be contacted at </i><a href=\"mailto:charlotte.li@columbiaspectator.com\"><i>charlotte.li@columbiaspectator.com</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Jun Yi Zhang is a Graphics reporter. She can be contacted at </i><a href=\"mailto:junyi.zhang@columbiaspectator.com\"><i>junyi.zhang@columbiaspectator.com</i></a><i>.</i>"
+          }
+        ],
+        "headline": "The U.S. and Ivy League schools were late to respond to COVID-19.",
+        "date": "October 17, 2019",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Charlotte-Li\">Charlotte Li</a>\nEdited by <a href=\"https://www.columbiaspectator.com/contributors/Jun-Yi-Zhang\">Jun Yi Zhang</a>",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
         "USE_COVER_HED": false,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1fSWTXLWMMRHVljNRlDjw14az7Az72wU6bMwlMFo2CeU/edit#heading=h.fdw7kh2j02qt"
       }
     }
   }

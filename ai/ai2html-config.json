@@ -9,6 +9,12 @@
       "style": ""
     },
     {
+      "aifont": "Roboto-Light",
+      "family": "Roboto,arial,helvetica,sans-serif",
+      "weight": "100",
+      "style": ""
+    },
+    {
       "aifont": "Roboto-Bold",
       "family": "Roboto,arial,helvetica,sans-serif",
       "weight": "700",
